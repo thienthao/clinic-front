@@ -1,0 +1,7 @@
+.container {
+  position: relative;
+  grid-area: main;
+  margin: 0 20px;
+  z-index: 0;
+  font-family: "montserrat" sans-serif;
+}
